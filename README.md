@@ -96,3 +96,5 @@ Specify your license here (e.g., MIT, GPL, etc.)
 ## Contact
 
 For questions or support, please open an issue or contact me directly.
+
+> error_databases CODES from Console Service Tool & uartcodes.com 
